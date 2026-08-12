@@ -25,6 +25,7 @@ Activity Classification
       ├── MLP Baseline
       └── LSTM
 # Human Activity Recognition from Pose Sequences
+```
 
 ## Dataset
 
